@@ -1,0 +1,5 @@
+title: HAZEL: a pilot generative AI guidance assistant
+theme: jekyll-theme-minimal
+
+plugins:
+- jekyll-seo-tag 

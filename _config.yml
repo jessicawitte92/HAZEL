@@ -1,5 +1,6 @@
 title: HAZEL: a pilot generative AI guidance assistant
-theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic@main
 
 plugins:
 - jekyll-seo-tag 
+- jekyll-remote-theme

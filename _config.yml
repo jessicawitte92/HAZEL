@@ -1,17 +1,10 @@
+title: HAZEL: a pilot generative AI assistant
+theme: jekyll-theme-minimal
+logo: /assets/img/headshot2.png
+
 plugins:
-- jekyll-remote-theme
--jekyll-seo-tag
--jemoji
--jekyll-sitemap
-
-exclude:
-- LICENSE
-
-remote_theme: daviddarnes/alembic@main
-theme: alembic-jekyll-theme
+- jekyll-seo-tag 
 
 encoding: utf-8 
 lang: en-GB 
-#title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-#description:
+

@@ -8,6 +8,13 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: HAZEL
 #logo: /assets/img/logo.png
 description: A pilot generative AI assistant for guidance authors
-show_downloads: false
+
+sidebar:
+- name: Historic England
+  icon: <svg xmlns="https://historicengland.org.uk/public/src/images/HE_Logo_RGB.svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+  link: https://historicengland.org.uk/about/
+- name: University of Edinburgh
+  icon: <svg xmlns="https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+  link: https://www.ed.ac.uk/history-classics-archaeology
 
 

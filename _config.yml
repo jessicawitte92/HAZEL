@@ -2,9 +2,9 @@ title: HAZEL: a pilot generative AI assistant
 theme: jekyll-theme-minimal
 #logo: 
 
-plugins:
-- jekyll-seo-tag 
+#plugins:
+#- jekyll-seo-tag 
 
-encoding: utf-8 
-lang: en-GB 
+#encoding: utf-8 
+#lang: en-GB 
 

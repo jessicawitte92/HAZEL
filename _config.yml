@@ -1,1 +1,17 @@
+plugins:
+- jekyll-remote-theme
+-jekyll-seo-tag
+-jemoji
+-jekyll-sitemap
+
+exclude:
+- LICENSE
+
+remote_theme: daviddarnes/alembic@main
 theme: alembic-jekyll-theme
+
+encoding: utf-8 
+lang: en-GB 
+#title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+#description:

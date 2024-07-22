@@ -1,6 +1,6 @@
 plugins: 
 - jekyll-seo-tag
 - jekyll-paginate
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
-remote_theme: daviddarnes/alembic@main
+remote_theme: abhinavs/moonwalk

@@ -1,5 +1,3 @@
-##  *A prototype generative AI assistant for heritage* 
-
 Developed for internal use, HAZEL supports authors with writing, editing and updating Historic England's guidance literature. 
 
 In its current form, HAZEL runs on a GPT 3.5-turbo model that has been tailored to provide suggestions in accordance with HE's tone of voice and style requirements. 

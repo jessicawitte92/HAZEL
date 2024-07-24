@@ -10,11 +10,9 @@ In this repository, you can find out more about the project. We have also create
 
 ## Project team
 
+<img src="/assets/images/HE.png" width="300" height="100">
 
-### Historic England
-![HE Logo](/assets/images/HE.png)
+<img src="/assets/images/UoE.png" width="300" height="100">
 
-### University of Edinburgh
-![UoE Logo](/assets/images/UoE.png)
 
 

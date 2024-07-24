@@ -8,6 +8,7 @@ In this repository, you can find out more about the project. We have also create
 
 ## [User manual](/other_pages/user_manual.md)
 
+
 ## Project team
 
 <img src="/assets/images/HE.png" width="300" height="100">

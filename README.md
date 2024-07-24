@@ -6,7 +6,7 @@ In its current form, HAZEL runs on a GPT 3.5-turbo model that has been tailored 
 
 In this repository, you can find out more about the project. We have also created a user manual and prompt library that you may wish to consult while working with HAZEL. 
 
-## User manual
+## [User manual](/other_pages/user_manual.md)
 
 ## Project team
 

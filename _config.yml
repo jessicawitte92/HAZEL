@@ -5,7 +5,6 @@ plugins:
 
 remote_theme: pages-themes/minimal@v0.2.0
 
-<a href="/other_pages/user_manual.md">User Manual</a>
 
 title: HAZEL
 #logo: /assets/img/logo.png

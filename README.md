@@ -8,9 +8,9 @@ In this repository, you can find out more about the project. We have also create
 
 # Project team
 
-<img src="/assets/images/HE.png" width="300" height="100" />
+<img src="https://github.com/jessicawitte92/HAZEL/blob/main/assets/images/HE.png" width="300" height="100" />
 
-<img src="/assets/images/UoE.png" width="300" height="100" />
+<img src="https://github.com/jessicawitte92/HAZEL/blob/main/assets/images/UoE.png" width="300" height="100" />
 
 
 # User manual

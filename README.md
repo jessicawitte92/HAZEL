@@ -6,6 +6,8 @@ In its current form, HAZEL runs on a GPT 3.5-turbo model that has been tailored 
 
 In this repository, you can find out more about the project. We have also created a user manual and prompt library that you may wish to consult while working with HAZEL. 
 
+We'd love to hear about your experience working with HAZEL. After you've given it a go, please complete the [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYfhsR-xo7tVBk7oPa83ooJpUNlNTS1pRTk5USDhHSjAySk5NRTMySDNKMy4u), which should take approximately 15 minutes of your time.
+
 # Project team
 
 <img src="https://github.com/jessicawitte92/HAZEL/blob/main/assets/images/HE.png" width="300" height="100" />

@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 10 16:00:17 2024
 
-@author: jessicawitte
-"""
 
 #a programme for establishing the ground truth of gpt 3.5-turbo's performance in revising a sample of sentences from the HE guidance corpus.
 
